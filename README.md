@@ -1,2 +1,2 @@
 # Google Gemini App
-Gemini App, which I developed using Flutter, is an innovative application designed to provide a seamless and user-friendly experience leveraging the powerful Gemini API. This application integrates real-time data analytics and secure authentication protocols to offer users a comprehensive platform for managing their tasks and schedules. The Flutter framework allowed for the creation of a highly responsive and visually appealing interface, ensuring optimal performance across both Android and iOS devices. By utilizing the Gemini API, the app fetches and displays critical data efficiently, making it a reliable tool for users seeking accurate and timely information.
+
