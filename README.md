@@ -13,7 +13,13 @@ Users can explore information using both voice and text inputs, making it conven
 🌟 Whether it's creating intuitive user interfaces, optimizing app performance, or solving complex problems, I'm dedicated to delivering exceptional results that exceed expectations. I thrive in dynamic environments where I can innovate, learn, and grow as a developer.
 
 📫 Let's connect! Feel free to reach out to me via email at arslantariq4546@gmail.com or connect with me on LinkedIn to discuss potential collaborations or just chat about all things Flutter!
+## Screenshots
+<p align="center">
+  <img src="https://github.com/Arslan4546/Gemini-Chat-App/blob/main/assets/screenshots/ss1.png" alt="Screenshot 1" width="30%" style="margin: 0 40px;"/>
+  <img src="https://github.com/Arslan4546/Gemini-Chat-App/blob/main/assets/screenshots/ss2.png" alt="Screenshot 2" width="30%" style="margin: 0 40px;"/>
+  <img src="https://github.com/Arslan4546/Gemini-Chat-App/blob/main/assets/screenshots/ss3.png" alt="Screenshot 3" width="30%" style="margin: 0 40px;"/>
 
+</p>
 
 
 ## Contact Me
