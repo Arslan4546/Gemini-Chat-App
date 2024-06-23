@@ -1,7 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_gemini/flutter_gemini.dart';
 import 'package:google_gemini/consts.dart';
-import 'package:google_gemini/home_screen.dart';
 import 'package:google_gemini/splashScreen.dart';
 
 void main() {
