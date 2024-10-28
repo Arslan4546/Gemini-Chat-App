@@ -22,9 +22,14 @@ Users can explore information using both voice and text inputs, making it conven
 </p>
 
 
-## Contact Me
+---
 
-LinkedIn:https://www.linkedin.com/in/arslan4546/
-GitHub:https://github.com/Arslan4546
-Facebook:https://www.Facebook.com/Arslan4546
-Email: arslantariq4546@gmail.com
+## 📬 Contact Me
+
+- **LinkedIn**: [Arslan Tariq](https://www.linkedin.com/in/arslan4546/)
+- **Instagram**: [Arslan Tariq](https://www.instagram.com/arslantariq4546/)
+-  **Threads**: [Arslan Tariq](https://www.threads.net/@arslantariq4546)
+- **Facebook**: [Arslan Tariq](https://www.facebook.com/Arslan4546)
+- **Email**: [arslantariq4546@gmail.com](mailto:arslantariq4546@gmail.com)
+
+---
